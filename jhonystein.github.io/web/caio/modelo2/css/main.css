@@ -4,38 +4,3 @@
 footer > img {
 	float: right;
 }
-
-.navbar-inverse {
-    background-image: linear-gradient(to bottom, #FFFFFF 0px, #FFFFFF 100%);
-}
-
-.navbar-inverse {
-    background-color: #003399;
-    border-color: #FFFFFF;
-}
-
-body {
-    color: #000A1F;
-}
-
-.active > a {
-    background-color: #003399;
-}
-
-.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    background-color: #FFFFFF;
-    color: #003399;
-}
-
-.navbar-inverse .navbar-nav > li > a {
-    color: #003399;
-}
-
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
-  color: #000A1F;
-}
-
-.navbar-toggle {
-    background-color: #000A1F;
-}
