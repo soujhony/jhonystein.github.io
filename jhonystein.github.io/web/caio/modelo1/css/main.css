@@ -19,7 +19,7 @@ body {
 }
 
 .active > a {
-    background-color: #003399;
+    background-color: #000A1F;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
